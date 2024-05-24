@@ -1,8 +1,7 @@
 # VSM-ACT-R Model
 
 ## Overview
-The VSM-ACT-R model is an ACT-R based simulation aimed at optimizing time reduction within assembly sectors. This model incorporates different levels of decision-making expertise, specifically tailored for novice and expert users. It is designed to evaluate the impact of time reduction on production quality, specifically focusing on defect rates in pre-assembly and assembly phases.
-
+The VSM-ACT-R model is an ACT-R based simulation aimed at optimizing time reduction within assembly sectors. This model incorporates different levels of decision-making expertise, specifically tailored for novice and expert users. It is designed to evaluate the impact of time reduction on production quality, specifically focusing on defect rates in the pre-assembly and assembly phases.
 
 ### Expert Level Decision-Making
 At the expert level, the model conducts a series of calculations and comparisons to identify optimal sectors for time reduction, as follows:
@@ -33,4 +32,4 @@ cd VSM-ACT-R
 Specify the license under which your project is made available. (e.g., MIT, GPL-3.0, etc.)
 
 ## Acknowlegement
-This model is designed and devleoped when Siyu Wu worked in Bosch Center for AI and an AI intern under the supervision of Dr. Alessandro Oltramari. The manufacturing context is from Bosch plant floor. The data in the model was redacted.
+This model was designed and developed when Siyu Wu worked at Bosch Center for AI as an AI intern under the supervision of Dr. Alessandro Oltramari. The manufacturing context is from the Bosch plant floor. The data in the model was redacted.
