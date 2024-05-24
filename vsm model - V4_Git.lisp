@@ -248,11 +248,11 @@
    =goal>
    isa decision
    state brute-strategy
-    time  4
-    OEE1   0.88
-    CT1 44
-    OEE2  0.8
-    CT2  40
+    time  X
+    OEE1   X
+    CT1 X
+    OEE2  X
+    CT2  X
      
    )
 ; retrival chunks and compare the OEE of preassemble and assemble
