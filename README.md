@@ -28,8 +28,5 @@ cd VSM-ACT-R
 
 2: You need to download ACT-R 7.27.9 http://act-r.psy.cmu.edu/software/ for execution
 
-## License
-Specify the license under which your project is made available. (e.g., MIT, GPL-3.0, etc.)
-
 ## Acknowlegement
 This model was designed and developed when Siyu Wu worked at Bosch Center for AI as an AI intern under the supervision of Dr. Alessandro Oltramari. The manufacturing context is from the Bosch plant floor. The data in the model was redacted.
